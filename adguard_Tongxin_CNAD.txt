@@ -20,3 +20,8 @@
 ||cas.baidu.com^
 ||e.shifen.com^
 ||shuzilm.cn^
+||ad.e.kuaishou.com^
+||e.kuaishou.com^
+||kuaishouad.cn^
+||cdbaidu.com^
+||gsp0.baidu.com^
