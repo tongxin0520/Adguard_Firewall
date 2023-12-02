@@ -1,3 +1,14 @@
+! 
+! Title: Custom Rules For AdGuard DNS Firewall
+! This DNS protection rule is only suitable for personal use. Please refer to this website for blocked content.!
+! 
+! HomePage: https://tongxin0520.github.io/blog/post/XXP34PtD1/
+! 
+! Source Name: AdGuard Firewall
+! Source: https://tongxin0520.github.io/Adguard_Firewall/adguard_Tongxin_CNAD.txt
+! Last Modified: 2023-12-02T21:57:00
+! 
+
 ||oceanengine.com^
 ||csjplatform.com^
 ||chengzijianzhan.cc^
@@ -25,3 +36,4 @@
 ||kuaishouad.cn^
 ||cdbaidu.com^
 ||gsp0.baidu.com^
+||bugly.qq.com^
