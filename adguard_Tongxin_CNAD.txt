@@ -1,9 +1,9 @@
 !
-! Title: Custom Rules For AdGuard DNS Firewall
-! Description: This DNS protection rule is only suitable for personal use. Please refer to this website for blocked content.
+! Title: Custom Rules For AdGuard DNS Firewall 
+! Description: This DNS protection rule is only suitable for personal use. Please refer to this website for blocked content. 
 ! Homepage: 
-https://tongxin0520.github.io/blog/post/XXP34PtD1/
-! Last modified: 2023-12-02T13:31:59.226Z
+https://tongxin0520.github.io/blog/post/XXP34PtD1 
+! Last modified: 2023-12-23T13:31:59.226Z 
 !
 !
 !
@@ -35,3 +35,7 @@ https://tongxin0520.github.io/blog/post/XXP34PtD1/
 ||cdbaidu.com^
 ||gsp0.baidu.com^
 ||bugly.qq.com^
+||jzt.jd.com^
+||jingpaidang.com^
+||fw.jd.com^
+||transcosmos-cn.com^
