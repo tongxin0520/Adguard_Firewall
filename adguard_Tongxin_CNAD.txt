@@ -3,7 +3,7 @@
 ! Description: This DNS protection rule is only suitable for personal use. Please refer to this website for blocked content. 
 ! Homepage: 
 https://tongxin0520.github.io/blog/post/XXP34PtD1 
-! Last modified: 2023-12-23T13:31:59.226Z 
+! Last modified: 2024-01-04T07:32:00.140Z 
 !
 !
 !
@@ -19,6 +19,7 @@ https://tongxin0520.github.io/blog/post/XXP34PtD1
 ||qm989.com^
 ||yximgs.com^
 ||adkwai.com^
+||adukwai.com^
 ||kuai.com^
 ||kuaishouzt.com^
 ||kuaionline.com^
@@ -27,7 +28,8 @@ https://tongxin0520.github.io/blog/post/XXP34PtD1
 ||ad.qq.com^
 ||esm.baidu.com^
 ||cas.baidu.com^
-||e.shifen.com^
+||shifen.com^
+||bcebos.com^
 ||shuzilm.cn^
 ||ad.e.kuaishou.com^
 ||e.kuaishou.com^
@@ -39,3 +41,5 @@ https://tongxin0520.github.io/blog/post/XXP34PtD1
 ||jingpaidang.com^
 ||fw.jd.com^
 ||transcosmos-cn.com^
+||6sense.com^
+||ampproject.org^
