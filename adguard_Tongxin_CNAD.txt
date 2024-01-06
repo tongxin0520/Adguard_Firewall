@@ -26,12 +26,10 @@
 ||umeng.com^
 ||ad.qq.com^
 ||esm.baidu.com^
-||cas.baidu.com^
 ||ad.e.kuaishou.com^
 ||e.kuaishou.com^
 ||kuaishouad.cn^
 ||cdbaidu.com^
-||gsp0.baidu.com^
 ||bugly.qq.com^
 ||jzt.jd.com^
 ||jingpaidang.com^
