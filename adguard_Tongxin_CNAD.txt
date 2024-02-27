@@ -1,8 +1,7 @@
 !
 ! Title: Custom Rules For AdGuard DNS Firewall 
 ! Description: This DNS protection rule is only suitable for personal use. Please refer to this website for blocked content. 
-! Homepage: https://tongxin0520.github.io/blog/post/XXP34PtD1 
-! Last modified: 2024-01-06T22:35:04.320Z 
+! Last modified: 2024-02-27T12:43:04.320Z 
 !
 !
 !
@@ -32,8 +31,10 @@
 ||cdbaidu.com^
 ||bugly.qq.com^
 ||jzt.jd.com^
-||jingpaidang.com^
+||dsp-x.jd.com^
+||xlog.jd.com^
 ||fw.jd.com^
+||jingpaidang.com^
 ||transcosmos-cn.com^
 ||6sense.com^
 ||ampproject.org^
